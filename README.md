@@ -8,7 +8,7 @@
             alt="follow on Twitter"></a>
 </p>
 
-Please, open an issue if you have any questions or suggestions :)
+Please, [open an issue](https://github.com/fpozoc/eccb-22/issues/new) if you have any questions or suggestions :)
 
 -----
 - [ECCB-22](#eccb-22)
